@@ -1,4 +1,4 @@
-# Shivtej-Patil-demo
+# -Demo Repo
 * **This is my first Git Repository.**
 * **Welcome " Shivtej Patil...!"**
 
