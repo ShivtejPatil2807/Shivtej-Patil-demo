@@ -6,6 +6,6 @@
 
 ### What is GitHub?
 
-** GitHub is an online platform where developers can store, manage, share, and collaborate on their code and projects.**
+**GitHub is an online platform where developers can store, manage, share, and collaborate on their code and projects.**
 
-** It uses Git, a version control system, to keep track of changes made to files and projects.**
+**It uses Git, a version control system, to keep track of changes made to files and projects.**
