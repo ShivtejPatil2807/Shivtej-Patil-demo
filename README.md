@@ -1,6 +1,6 @@
-# -Demo Repo
+# ~Demo Repo
 ## My First GitHub Repository
-* **Welcome to my first GitHub repository...!"**
+* **Welcome to my first GitHub repository...!**
 
 ![image alt](https://github.com/ShivtejPatil2807/Shivtej-Patil-demo/blob/ef5c4cf61ddc45f6042b83fb9a04d52eb541876d/Github.png.jpeg)
 
